@@ -11,7 +11,7 @@ let users = [
     id: "2",
     name: "Jane Smith",
     role: "Backend Developer",
-    avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    avatar: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?q=80&w=634&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     skills: ["Node.js", "Python", "SQL"]
   },
   {
